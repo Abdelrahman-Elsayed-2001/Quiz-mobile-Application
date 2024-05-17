@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="Score">Score 0/8</string>
+    <string name="Question_Number">Question 1/8</string>
+
+
+    <string name="Question_1">What was the purpose of the pyramids in ancient Egypt?</string>
+    <string name="Question1_A">To protect the body of the pharaoh to help it reach the afterlife</string>
+    <string name="Question1_B">To create a stairway from heaven to earth</string>
+    <string name="Question1_C">To create a memorial for the pharaoh</string>
+    <string name="Question1_D">To provide jobs for the Egyptian people</string>
+    <string name="Answer_1">To protect the body of the pharaoh to help it reach the afterlife</string>
+
+
+    <string name="Question_2">What is the loudest Bird?</string>
+    <string name="Question2_A">Macaws</string>
+    <string name="Question2_B">Cockatoos</string>
+    <string name="Question2_C">White Bellbird</string>
+    <string name="Question2_D">None of these</string>
+    <string name="Answer_2">White Bellbird</string>
+
+    <string name="Question_3">Who was the inventor of Ctrl+C (copy), Ctrl+V (Paste ) and Ctrl+X (Cut)?</string>
+    <string name="Question3_A">Bill Gates</string>
+    <string name="Question3_B">Larry Tesler</string>
+    <string name="Question3_C">Christopher Latham Sholes</string>
+    <string name="Question3_D">David Sundstrand</string>
+    <string name="Answer_3">Larry Tesler</string>
+
+
+    <string name="Question_4">What is the first country to give a robot citizenship?</string>
+    <string name="Question4_A">Egypt</string>
+    <string name="Question4_B">UAE</string>
+    <string name="Question4_C">Saudi Arabia</string>
+    <string name="Question4_D">USA</string>
+    <string name="Answer_4">Saudi Arabia</string>
+
+
+    <string name="Question_5">Where is the World’s longest sea bridge ?</string>
+    <string name="Question5_A">Japan</string>
+    <string name="Question5_B">Russia</string>
+    <string name="Question5_C">China</string>
+    <string name="Question5_D">France</string>
+    <string name="Answer_5">China</string>
+
+
+    <string name="Question_6">When did the longest lunar eclipse of 21st century occur?</string>
+    <string name="Question6_A">27th August, 2018</string>
+    <string name="Question6_B">27th July, 2018</string>
+    <string name="Question6_C">27th June, 2018</string>
+    <string name="Question6_D">None of these</string>
+    <string name="Answer_6">27th July, 2018</string>
+
+
+    <string name="Question_7">What is the nationality of the 102-year-old oldest skydiver woman?</string>
+    <string name="Question7_A">American</string>
+    <string name="Question7_B">Chinese</string>
+    <string name="Question7_C">Australian</string>
+    <string name="Question7_D">Mexican</string>
+    <string name="Answer_7">Australian</string>
+
+
+    <string name="Question_8">When did Penalty cards(Yellow, Red) used in Football was first introduced</string>
+    <string name="Question8_A">1970</string>
+    <string name="Question8_B">1974</string>
+    <string name="Question8_C">1996</string>
+    <string name="Question8_D">1850</string>
+    <string name="Answer_8">1970</string>
+
+
+    <string name="Question_1m">2001 + 1442 - 521 * 2 - 400=</string>
+    <string name="Question1_Am">2001</string>
+    <string name="Question1_Bm">5844</string>
+    <string name="Question1_Cm">5927</string>
+    <string name="Question1_Dm">0</string>
+    <string name="Answer_1m">2001</string>
+
+    <string name="Question_2m">root ( 44 + 56 ) =</string>
+    <string name="Question2_Am">14.1</string>
+    <string name="Question2_Bm">6.6</string>
+    <string name="Question2_Cm">10</string>
+    <string name="Question2_Dm">10.267952</string>
+    <string name="Answer_2m">10</string>
+
+    <string name="Question_3m">6 * 5 * 12 * 3 * 4 * 5 * -7 * 0 =</string>
+    <string name="Question3_Am">151200</string>
+    <string name="Question3_Bm">-151200</string>
+    <string name="Question3_Cm">0</string>
+    <string name="Question3_Dm">None of Above</string>
+    <string name="Answer_3m">0</string>
+
+
+    <string name="Question_4m">73 = 39 + 4x : x=?</string>
+    <string name="Question4_Am">0</string>
+    <string name="Question4_Bm">5.9374</string>
+    <string name="Question4_Cm">3.9</string>
+    <string name="Question4_Dm">8.5</string>
+    <string name="Answer_4m">8.5</string>
+
+
+    <string name="Question_5m">11 + 22 - 33 + 44 - 55 + 66 - 77 + 88 - 99 =</string>
+    <string name="Question5_Am">33</string>
+    <string name="Question5_Bm">-33</string>
+    <string name="Question5_Cm">22</string>
+    <string name="Question5_Dm">-22</string>
+    <string name="Answer_5m">-33</string>
+
+
+    <string name="Question_6m">1+1 at binary</string>
+    <string name="Question6_Am">2</string>
+    <string name="Question6_Bm">11</string>
+    <string name="Question6_Cm">0</string>
+    <string name="Question6_Dm">None of Above</string>
+    <string name="Answer_6m">None of Above</string>
+
+
+    <string name="Question_7m">cat can eat 5 fish at 1h how many hour need 10 cats to eat 50 fish?</string>
+    <string name="Question7_Am">10h</string>
+    <string name="Question7_Bm">5h</string>
+    <string name="Question7_Cm">1h</string>
+    <string name="Question7_Dm">50h</string>
+    <string name="Answer_7m">1h</string>
+
+
+    <string name="Question_8m">d/dx 3x^3/x+1 </string>
+    <string name="Question8_Am">2x</string>
+    <string name="Question8_Bm">(3*x^2*(2*x+3))/(x+1)^2</string>
+    <string name="Question8_Cm">(x^2*(2*x+3))/(x+1)^2</string>
+    <string name="Question8_Dm">6x</string>
+    <string name="Answer_8m">(3*x^2*(2*x+3))/(x+1)^2</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="general_questions">General Questions</string>
+    <string name="choose_question_s_category">Choose question\'s Category</string>
+    <string name="category">Category</string>
+    <string name="math">Math</string>
+    <string name="reading">Reading</string>
+
+
+    <string name="Question_1R">Read from the pdf and answer questions:\nMysore variety contains leaves of</string>
+    <string name="Question1_AR">Limonene</string>
+    <string name="Question1_BR">Cineol</string>
+    <string name="Question1_CR">Both (a) and (b)</string>
+    <string name="Question1_DR">None of these</string>
+    <string name="Answer_1R">Both (a) and (b)</string>
+
+    <string name="Question_2R">Indian Cardamom is</string>
+    <string name="Question2_AR">Poor in quality</string>
+    <string name="Question2_BR">Average in quality</string>
+    <string name="Question2_CR">Better in quality</string>
+    <string name="Question2_DR">None of these</string>
+    <string name="Answer_2R">Average in quality</string>
+
+    <string name="Question_3R">Guatemala produces cardamom</string>
+    <string name="Question3_AR">More but poor in quality</string>
+    <string name="Question3_BR">Less but good in quality</string>
+    <string name="Question3_CR">More and good in quality</string>
+    <string name="Question3_DR">Less and poor in quality</string>
+    <string name="Answer_3R">More but poor in quality</string>
+
+    <string name="Question_4R">Main harvest season of cardamom in India is</string>
+    <string name="Question4_AR">August-February</string>
+    <string name="Question4_BR">August-March</string>
+    <string name="Question4_CR">November</string>
+    <string name="Question4_DR">February-April</string>
+    <string name="Answer_4R">August-February</string>
+
+    <string name="Question_5R">Cardamom reaches at its yielding stage in</string>
+    <string name="Question5_AR">Immediately after plantation</string>
+    <string name="Question5_BR">Depends upon the plantation</string>
+    <string name="Question5_CR">One year after plantation</string>
+    <string name="Question5_DR">Two years after plantation</string>
+    <string name="Answer_5R">Two years after plantation</string>
+
+    <string name="Question_6R">India produces cardamom of</string>
+    <string name="Question6_AR">One type</string>
+    <string name="Question6_BR">Two types</string>
+    <string name="Question6_CR">Three types</string>
+    <string name="Question6_DR">None of the above</string>
+    <string name="Answer_6R">Two types</string>
+
+    <string name="Question_7R">Which of the following is the variety of Indian cardamom?</string>
+    <string name="Question7_AR">Malabar cardamom</string>
+    <string name="Question7_BR">Mysore cardamom</string>
+    <string name="Question7_CR">Both (a) and (b)</string>
+    <string name="Question7_DR">None of the above</string>
+    <string name="Answer_7R">Both (a) and (b)</string>
+
+    <string name="Question_8R">Which of the following production of cardamom produces by Karnataka?</string>
+    <string name="Question8_AR">25%</string>
+    <string name="Question8_BR">10%</string>
+    <string name="Question8_CR">15%</string>
+    <string name="Question8_DR">None of these</string>
+    <string name="Answer_8R">5%</string>
+
+    <string name="next_question">Next Question</string>
+
+    <string name="_0_00">0:00</string>
+
+    <string name="enter_your_email">Enter your Email</string>
+
+    <string name="login">LOGIN</string>
+
+    <string name="enter_your_password">Enter your Password</string>
+
+    <string name="no_account_register_here">No account? Register here</string>
+
+    <string name="login_now_and_start_your_quiz">Login now and start Your Quiz!</string>
+
+    <string name="enter_your_name">Enter your Name</string>
+
+    <string name="enter_your_phone">Enter your Phone</string>
+
+    <string name="register">REGISTER</string>
+
+    <string name="already_have_an_account_login_here">Already have an account? Login here</string>
+
+    <string name="register_now_and_test_your_knowledge">Register now and test Your Knowledge!</string>
+    <string name="log_out">Log Out</string>
+
+
+</resources>
+
